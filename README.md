@@ -1,4 +1,4 @@
-<h1>Imaging Technologies Labs</h1>
+<h1> Commputer Vision & Imaging Technologies Labs</h1>
 
 <h2>Description</h2>
 This repo contains all laboratory work completed for the <b>Imaging Technologies</b> course.  
